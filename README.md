@@ -3,6 +3,8 @@ This is the first draft of a README for Finn and Ginger's water quality monitori
 As of Aug. 16 2026, this code is designed to be compatible with an ESP32-C6 chip, specifically with the DFRobot firebeetle C6 v2. 
 The main components of this project are the sensors, SD card module, and the power-limiting sections. These sections all require major edits if not a complete overhaul. The calibration code almost certainly requires an overhaul. 
 
+Device type 1 is last year's final code. be warned it does not really make sense.
+
 Sensors used:
 - DFRobot pH sensor (industrial grade. not lab grade)
 - Atlas scientific conductivity sensor (K 1.0 I think
